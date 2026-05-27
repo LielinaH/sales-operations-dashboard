@@ -1,6 +1,6 @@
 # Small Business Sales & Operations Intelligence Dashboard
 
-🔗 **Live Demo:** [https://salesopsdash-two.vercel.app](https://salesopsdash-two.vercel.app)
+🔗 **Live Demo:** [https://salesopsledger.vercel.app](https://salesopsledger.vercel.app)
 
 An executive-level analytics dashboard designed for small-to-medium businesses (SMBs) to demonstrate end-to-end data cleaning (ETL), financial KPI engineering, accounts receivable aging, and premium interactive web visualization.
 
