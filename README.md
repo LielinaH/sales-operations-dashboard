@@ -1,5 +1,7 @@
 # Small Business Sales & Operations Intelligence Dashboard
 
+🔗 **Live Demo:** [https://sales-operations-dashboard.vercel.app](https://sales-operations-dashboard.vercel.app)
+
 An executive-level analytics dashboard designed for small-to-medium businesses (SMBs) to demonstrate end-to-end data cleaning (ETL), financial KPI engineering, accounts receivable aging, and premium interactive web visualization.
 
 This project serves as a **portfolio-ready case study** for freelance clients on **PeoplePerHour** and **Contra** who are looking for analysts capable of cleaning messy spreadsheets, building automated reporting systems, and delivering executive insights.
@@ -26,7 +28,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed (v18 or higher recommen
 ### Setup Steps
 1. **Clone the repository and open the project directory:**
    ```bash
-   cd bold-hertz
+   cd sales-operations-dashboard
    ```
 
 2. **Install the dependencies:**
